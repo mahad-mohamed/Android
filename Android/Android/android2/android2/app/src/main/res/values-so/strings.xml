@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meeleynta Android</string>
+    <string name="hello_message">Hello Adduunka!</string>
+    <string name="ButtonText">Waxaan ahay badhan</string>
+    <string name="Login">Gal</string>
+    <string name="button_login_text">Galid</string>
+    <string name="Password">Furaha</string>
+    <string name="login_name">magaca gelitaanka</string>
+    <string name="dialog_message">Ma jeclaan lahayd inaad dhammayso hawsha?</string>
+    <string name="dialog_title">Dhameystirka Waxqabadka</string>
+    <string name="ok">Hagaag</string>
+    <string name="cancel">Jooji</string>
+    <string name="start_chat">Bilow Wada sheekeyso </string>
+    <string name="sendButton">Dir</string>
+    <string name="title_activity_test_tool_bar">Qalabka Baaritaanka</string>
+    <string name="testToolbar">Qalabka Baaritaanka</string>
+    <string name="action_one">Doorashada 1</string>
+    <string name="action_two">Doorashada 2</string>
+    <string name="action_three">Doorashada 3</string>
+    <string name="action_about">Ku saabsan</string>
+    <string name="tool_dialog_title">Ma rabtaa inaad ku noqoto?</string>
+    <string name="new_message">Farriin Cusub</string>
+
+</resources>
